@@ -1,0 +1,18 @@
+{
+	"server": [
+		{"type": "nginx", "version": "1.5.13"},
+		{"type": "Apache", "version": "2.2.29"},
+		{"type":"Microsoft-IIS", "version": "7.5"},
+		{"type":"lighttpd", "version": "1.4.35"}
+	],
+	"x_powered_by":[
+		{"type": "PHP", "version": "5.4.36"}
+	],
+	"x_runtime":[
+	],
+	"x_version":[
+	],
+	"x_aspnet_version":[
+		{"version" : "4.0.30319"}
+	]
+}
